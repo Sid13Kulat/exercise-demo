@@ -1,0 +1,15 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.boxes {
+  border: 1px solid;
+  background-color: transparent;
+  width: 25%;
+  text-align: center;
+}
+.threerow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
